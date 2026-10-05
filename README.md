@@ -49,6 +49,10 @@ Menggunakan ID Selector (`#intro`, `#intro h1`) dan Class Selector (`.button`) p
 <img width="1920" height="1080" alt="code 5" src="https://github.com/user-attachments/assets/9fd06af9-4aca-4442-9ad7-6a66eaaff7a8" />
 <img width="1920" height="1080" alt="hasil 5" src="https://github.com/user-attachments/assets/f26d2627-9167-469c-a438-c2f72553295b" />
 
+## Langkah 6: Validasi file css
+Memvalidasi melalu website : https://jigsaw.w3.org/css-validator/ 
+   <img width="1920" height="1080" alt="validasi" src="https://github.com/user-attachments/assets/d2dae576-5a07-4752-beaa-30a479f946f9" />
+
 
 ## 3. Pertanyaan dan Tugas
 
